@@ -1,11 +1,5 @@
-# Firebase Authentication with Angular
+﻿# Authentication-with-Angular-5
 
-This project is part of an Angular tutorial where we explore how to setup a simple email/password as well as social login authentication workflows for Angular 5 apps using the awesome AngularFire2 library.
-
-Get the step by step free tutorial in https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
-
-
-**Please support this project by simply putting a Github star ⭐. Share this repo with friends on Twitter and everywhere else you can. 🙏 Thanks**
 
 ## Installation
 
@@ -16,4 +10,3 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 
 
 ![](https://s3-us-west-2.amazonaws.com/angular-templates/tutorials/firebase-authentication-with-angular/firebase-tutorial-login-screenshot.png)
-"# Authentication-with-Angular-5" 
